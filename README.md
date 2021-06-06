@@ -7,5 +7,6 @@ DataTables is a plug-in for the jQuery Javascript library. It is a highly flexib
 
 # Requirements
 https://datatables.net/download/
+<hr>
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
